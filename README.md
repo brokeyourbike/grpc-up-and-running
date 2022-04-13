@@ -19,4 +19,5 @@ protoc -I ecommerce ecommerce/product_info.proto \
 
 ## Acknowledgement
 
-gRPC: Up and Running by Kasun Indrasiri and Danesh Kuruppu (O’Reilly). Copyright 2020 Kasun Indrasiri and Danesh Kuruppu, 978-1-492-05833-5.
+- gRPC: Up and Running by Kasun Indrasiri and Danesh Kuruppu (O’Reilly). Copyright 2020 Kasun Indrasiri and Danesh Kuruppu, 978-1-492-05833-5.
+- [Code samples](https://github.com/grpc-up-and-running/samples)
